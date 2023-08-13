@@ -1,0 +1,11 @@
+[1;31m
+Start test 1[0m
+*Welcome to the traffic management system!
+!Input the number of roads: > > 5
+Input the interval: > > 3
+Menu:
+1. Add road
+2. Delete road
+3. Open system
+0. Quit
+
